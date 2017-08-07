@@ -1,0 +1,153 @@
+
+html, body
+{
+  height: 100%;
+  margin:0;
+ 
+}      
+
+header
+
+{
+    font-family: 'Homemade Apple', cursive;
+    background-color:rgb(222, 222, 222);
+    height:10%;
+    color:rgb(105, 49, 146);
+    text-align:center;
+    font-size:28px;
+}
+
+
+nav
+{
+    height:5%;
+    display:flex;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+footer
+{
+    background-color:rgb(152, 152, 152);
+    height:7%;
+    background-size:100% 100%;
+    text-align:center;
+    font-family: 'Homemade Apple', cursive
+    
+}
+
+#box9
+
+{
+    flex:1;
+    background-color: rgb(152, 152, 152);
+    text-align:center;
+    border-style:double;
+}
+
+#box10
+{
+    flex:1;
+    background-color:rgb(142, 219, 250);
+    text-align:center;
+    border-style:double;
+}
+
+
+#box11
+{
+    
+    flex:1;
+    background-color: rgb(152, 152, 152);
+    text-align:center;
+    border-style:double;
+}
+
+#box18
+{
+    flex:1;
+    background-color:rgb(255, 153, 204);
+    text-align:center;
+    border-style:double;
+}
+
+section
+{
+    margin-top:2.5%;
+    height:75%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    
+}
+
+#img1, #img2, #img3, #img4, #img5, #img6
+{
+  
+    height:48%;
+    width:30%;
+}
+#img1
+{
+    background-image:url("../img/ifyouseesomethingsaysomething.png");
+    background-size: 100%;
+}
+   
+#img2
+{ background-image:url("../img/irt1trainstation.jpg");
+    background-size:100% 100%;
+    background-position:center;
+  
+}
+
+#img3
+{
+     background-image:url("../img/arodarriveshome.jpg");
+     background-size:100% 100%;
+
+}
+
+#img4
+{
+    background-image:url("../img/cityview.jpg");
+    background-size:100% 100%;
+}
+
+#img5
+
+{ 
+    
+     background-image:url("../img/arodyankeefan.jpg");
+     background-size:100% 100%;
+     
+}
+    
+#img6
+{
+    background-image:url("../img/arodinbed.jpg");
+    background-size:100% 100%;
+   /* background-position:center;*/
+}
+
+
+
+
+/*blue color for the beginning when Arod was declared a boy; pink when Arod turns out to be a girl; Grey For slim shady's
+teen years; purple because pink and blue give you a shade of purple.*/
+
+/*color codes: 
+pink:  rgb(255, 153, 204)
+light grey: rgb(222, 222, 222)
+light blue::rgb(142, 219, 250) 
+purple: rgb(105, 49, 146)
+darK grey: rgb(152, 152, 152)
+
+*/
+
+
+
+
+    

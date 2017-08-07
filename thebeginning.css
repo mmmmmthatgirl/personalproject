@@ -1,0 +1,117 @@
+html, body
+{
+  height: 100%;
+  margin:0;
+}      
+
+header
+{
+    font-family: 'Homemade Apple', cursive;
+    background-color:rgb(222, 222, 222);
+    height:10%;
+    color:purple;
+    text-align:center;
+    font-size:25px;
+    
+}
+
+a
+
+{
+    text-decoration:none;
+    
+}
+
+
+nav
+{
+    height:5%;
+    display:flex;
+    
+}
+
+#thebeginning
+{
+    display:flex;
+    width:100%;
+    font-family: 'Homemade Apple', cursive;
+    color:rgb(105, 49, 146);
+    text-align: center;
+}
+
+section
+{
+
+    background-color:lightblue;
+    font-family: 'Homemade Apple', cursive
+    height:20%;
+}
+
+#box5
+{
+    flex:1;
+    background-color:rgb(142, 219, 250); 
+    text-align:center;
+    border:double;
+    
+}
+
+#box6
+{
+    flex:1;
+    background-color:grey;
+    text-align:center;
+    border:double;
+}
+
+#box9
+{
+    flex:1;
+    background-color: rgb(152, 152, 152);
+    text-align:center;
+    border-style:double;
+}
+#box7
+{
+    flex:1;
+    background-color:pink;
+    text-align:center;
+    border:double;
+}
+
+#box8
+{
+    height:65%;
+    background-image:url("../img/irt1trainseat.jpg");
+    background-size:100% 100%;
+    text-align:center;
+    font-family:'Homemade Apple', cursive;
+    font-size: 1em;
+    max-width: 100% 100%
+}
+
+
+
+
+
+
+
+    
+/*blue color for the beginning when Arod was declared a boy; pink when Arod turns out to be a girl; Grey For slim shady's
+teen years; purple because pink and blue give you a shade of purple.*/
+
+/*color codes: 
+pink:  rgb(255, 153, 204)
+light grey: rgb(222, 222, 222)
+light blue:rgb(142, 219, 250) 
+purple: rgb(105, 49, 146)
+darK grey: rgb(152, 152, 152)
+
+*/    
+    
+
+
+
+
+
+    
